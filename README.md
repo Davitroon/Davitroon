@@ -1,5 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi, I'm <span style="color:#58a6ff">Davitroon!</span></h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h1 align="center"> Hi, I'm <span style="color:#58a6ff">Davitroon!</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Java+%7C+Laravel+%7C+React;Always+Learning+New+Things!"/>
