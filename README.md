@@ -1,39 +1,62 @@
-<h1 align="center"> Hi, I'm <span style="color:#58a6ff">Davitroon!</span></h1>
+<h1 align="center"> I'm Davitroon!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Java+%7C+Laravel+%7C+React;Always+Learning+New+Things!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Java+%7C+Laravel+%7C+React;Always+Learning+New+Things"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-### 💡 More about me
-I'm David, a young student passionate about programming!
+### More about me
+I'm David, a young student passionate about programming
 
-- 🎯 I’m currently focused on improving my skills in **Java, Laravel, and React**.
-- 🌱 I love building interactive web and desktop apps.
-- 🚀 My goal is to become a **full-stack developer** capable of creating complete, scalable projects.
-- 🎮 In my free time, I design and code small **games and creative projects**.
+I’m currently focused on improving my skills in **Java, Laravel, and React**. I love building interactive web and desktop apps.
+My goal is to become a **full-stack developer** capable of creating complete, scalable projects. In my free time, I design and code small **games and creative projects**.
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 
-### 🛠️ Technologies and Tools
+### Technologies and Tools
 
 Here are some of the technologies I have worked with:
-| 🎨 **Frontend** | ⚙️ **Backend** | 🗄️ **Databases** | ☁️ **DevOps & Cloud** | 🧰 **Tools** |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,astro" /> | <img src="https://skillicons.dev/icons?i=java,python,php,laravel,nodejs" /> | <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> | <img src="https://skillicons.dev/icons?i=docker,aws" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress" /> |
 
-<p align="center">
-  <sub>💡 Always learning and exploring new technologies to build better projects!</sub>
-</p>
+ 🎨 **Frontend** 
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-%232C205F.svg?style=for-the-badge&logo=astro&logoColor=white)
+ 
+ ⚙️ **Backend** 
+ 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+ 
+ 🗄️ **Databases**
 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+ 
+ ☁️ **DevOps & Cloud** 
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+ 
+ 🧰 **Tools** |
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-### 💼 Skills & Focus
+### Skills & Focus
 
 - 🖥️ Full-Stack Development  
 - ⚙️ Object-Oriented Programming (OOP)  
@@ -45,7 +68,7 @@ Here are some of the technologies I have worked with:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 
-### 🔥 My GitHub Statistics
+### My GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Davitroon&show_icons=true&count_private=true&hide=issues,stars&theme=tokyonight&hide_border=true" />
