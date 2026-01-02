@@ -7,7 +7,7 @@
 ### More about me
 I'm David, a young student passionate about programming
 
-I’m currently focused on improving my skills in **Java, Laravel, and React**. I love building interactive web and desktop apps.
+My main languages are **Java, Python and React**. I love building interactive web and desktop apps.
 My goal is to become a **full-stack developer** capable of creating complete, scalable projects. In my free time, I design and code small **games and creative projects**.
 
 
