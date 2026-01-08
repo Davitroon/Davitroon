@@ -10,12 +10,7 @@ I'm David, a young student passionate about programming
 My main languages are **Java, Python and React**. I love building interactive web and desktop apps.
 My goal is to become a **full-stack developer** capable of creating complete, scalable projects. In my free time, I design and code small **games and creative projects**.
 
-<p>
-  🌐 <strong>Portfolio:</strong>
-  <a href="https://davidforero.dev/" target="_blank" rel="noopener noreferrer">
-    https://davidforero.dev/
-  </a>
-</p>
+🌐 **Portfolio:** [davidforero.dev](https://davidforero.dev/)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
