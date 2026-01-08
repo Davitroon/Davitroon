@@ -12,7 +12,7 @@ My goal is to become a **full-stack developer** capable of creating complete, sc
 
 <p>
   🌐 <strong>Portfolio:</strong>
-  <a href="https://davitroon.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://davidforero.dev/" target="_blank" rel="noopener noreferrer">
     https://davitroon.vercel.app/
   </a>
 </p>
