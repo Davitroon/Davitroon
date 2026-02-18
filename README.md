@@ -60,6 +60,6 @@ Here are some of the technologies I have worked with:
 ## My GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Davitroon&show_icons=true&count_private=true&hide=issues,stars&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Davitroon&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DavidForero22&show_icons=true&count_private=true&hide=issues,stars&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DavidForero22&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
