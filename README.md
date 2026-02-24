@@ -1,10 +1,5 @@
 <h1 align="center"> I'm David!</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Java+%7C+Laravel+%7C+React;Always+Learning+New+Things"/>
-</p>
-
-## More about me
 I'm David, a young student passionate about programming
 
 My main languages are **Java, Python and React**. I love building interactive web and desktop apps.
